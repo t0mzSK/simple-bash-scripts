@@ -1,2 +1,2 @@
-# simple-bash-scripts
-Simple Bash Scripts
+# Simple Bash Scripts
+A small collection, mainly of network/sysadmin scripts.
